@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Khusniddin Kalandarov
 
-<!--
-**Xusniddin-devv/Xusniddin-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend & AI Agent Developer · Aspiring Computer Scientist from Uzbekistan 🇺🇿
 
-Here are some ideas to get you started:
+🌐 [Portfolio](https://xusniddin.dev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/xusniddin-qalandarov/) &nbsp;·&nbsp; ✉️ [Email](mailto:xusniddin.dev@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 BSc in Computer Science & Engineering @ Presidential University (Expected 2026)
+- 💻 Frontend developer experienced in **Angular, React, React Native & TypeScript**
+- 🤖 Passionate about **AI agents** and building **Telegram bots** that solve real problems
+- 🌱 Currently contributing to startup platforms (ResearchHub, 90+10) and AI-powered apps
+- 🎯 Seeking to leverage my technical & AI skills in a Master's program
+
+### 🛠️ Tech Stack
+
+**Frontend:** Angular · RxJS · React · Vue · Next · Nuxt · Tailwind CSS · HTML5 · CSS3 · TypeScript
+
+**Mobile:** React Native · Expo · Flutter
+
+**AI & Backend:** Node.js · Python · NestJS · FastAPI · OpenAI API · Telegram Bot API
+
+**Data & Tools:** Firebase · MongoDB · Supabase · Apache ECharts · GitHub Actions · Git
+
+### 📌 Featured Projects
+
+- **FootHost** — React Native app to book football stadiums, with push notifications, deep linking & OTA updates
+- **ideY** — Platform that scores startup health and builds clear roadmaps from validation to launch
+- **ScanDina** — AI expense & calorie tracker that scans receipts, gives savings/health advice & recommends recipes
+- **NewsAnalyzeBot** — Telegram bot that analyzes news credibility, assigns trust scores & flags contradictory sources
+
+### 📊 GitHub Stats
+
+![stats](https://github-readme-stats.vercel.app/api?username=Xusniddin-devv&show_icons=true&theme=tokyonight)
+
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xusniddin-devv&layout=compact&theme=tokyonight)
+
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=Xusniddin-devv&theme=tokyonight)
