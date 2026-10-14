@@ -2,7 +2,7 @@
 
 ### AI Engineer & Frontend Developer · Aspiring Computer Scientist from Uzbekistan 🇺🇿
 
-🌐 [Portfolio](https://xusniddin.dev) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/xusniddin-qalandarov/) &nbsp;·&nbsp; ✉️ [Email](mailto:xusniddin.dev@gmail.com)
+🌐 [Portfolio](https://kalandarov.uz) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/xusniddin-qalandarov/) &nbsp;·&nbsp; ✉️ [Email](mailto:xusniddin.dev@gmail.com)
 
 ---
 
